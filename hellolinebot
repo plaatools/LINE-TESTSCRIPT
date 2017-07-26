@@ -1,3 +1,5 @@
+$heroku create myapp --buildpack heroku/python
+
 <?php
 echo "Hello LINE BOT";
 ?>
